@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+body {
+	
+}
+@media screen and (max-width: 480px){
+.{
+
+color: #00ffff! important;
+background: #000;
+}
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+p {
+	color:#333;
+}
+
+	@media screen and (max-width: 801px){
+.grid li {
+}
+}
+
+.grid li a img {
+	position: relative;
+	float: none;
+	max-width: 100px;
+	max-height: 100px;
+}
+.grid li a{
+	padding: 10px!important;
+}
+
+@media (min-width: 540px){
+
+.grid li { 
+		width: 30%;
+		 float: left;
+		 margin: 5px ! important;
+		 background color : blue;
+	}
+}
